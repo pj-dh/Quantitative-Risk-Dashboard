@@ -1,7 +1,5 @@
 # 📈 Quantitative Strategy Evaluation and Comparison
 
-*A beginner data science portfolio project*
-
 ---
 
 ## 🎯 What This Project Does
