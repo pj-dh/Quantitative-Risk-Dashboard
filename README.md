@@ -83,7 +83,6 @@ Here's a summary of my results (your numbers may vary if you use different rando
 - The **correlation heatmap** shows that all 3 strategies are somewhat correlated because they're all based on the same underlying stock.
 - The SMA strategy has the **lowest Sharpe ratio**, meaning it takes more risk per unit of return.
 
-> ⚠️ **Important note**: These are simulated results with no transaction costs. In real trading, buying and selling frequently adds costs that can significantly reduce returns.
 
 ---
 
@@ -153,4 +152,4 @@ No external data APIs needed — everything is simulated!
 
 ---
 
-*Created as a beginner data science portfolio project. All data is simulated — this is not financial advice!*
+
